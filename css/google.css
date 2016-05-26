@@ -1,0 +1,105 @@
+.google{
+	display: block;
+	margin:150px auto;
+	width:400px; 
+	height:215px;
+}
+
+form{
+	text-align: center;
+	margin: -180px auto;
+}
+
+input{
+	width:580px;
+	height: 30px;
+	border-radius:0px;
+	border: 2px solid #d6d8df;
+	background-color: #ffffff;
+}
+
+.search{
+	margin: 200px auto;
+	display: block;
+	margin-left: 750px;
+	width: 150px;
+	height: 40px;
+	border-radius: 0;
+	border: 0px solid #d6d8df;
+
+}
+
+.luck{
+	margin: -240px auto;
+	display: block;
+	margin-right:780px; 
+	width:150px;
+	height: 40px;
+	border-radius: 0px;
+	border: 0px solid #d6d8df;
+}
+
+div button:hover{
+	border:1px solid #d6d8df;
+	background-color:#ededed;
+}
+
+.top_bar li{
+	display: inline-block;
+	margin: 5px;
+	float: right;
+}
+
+.top_bar{
+	margin:-420px auto;
+
+}
+
+.top_bar a{
+	text-decoration: none;
+	margin: 10px;
+	font-size: 12px;
+	color: #000000;
+	font-family: cursive; 
+}
+
+li button{
+	margin: -3px auto;
+	border-radius: 2px;
+	background-color: #0986ff;
+	color: #ffffff;
+	height: 30px;
+	text-decoration: cursive;
+	border: 0px solid #000000;
+	width: 70px;
+}
+
+li img{
+	margin: 5px;
+	height: 15px;
+}
+
+.bottom_bar {
+	position:fixed; 
+    z-index: 100; 
+    bottom: -10; 
+    left: 0;
+    width: 97.9%;
+    height: 40px;
+	border-top: 1px solid #dadada;
+	display: inline;
+	font-size: 15px;
+	background-color: #f1f1f1;
+}
+
+.bottom_bar li{
+	display: inline;
+	margin: 10px;
+}
+
+.bottom_bar a{
+	text-decoration: none;
+	color:#000000;
+	font-size: 12px;
+	font-family: cursive;
+}
