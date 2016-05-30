@@ -82,7 +82,7 @@ li img{
 .bottom_bar {
 	position:fixed; 
     z-index: 100; 
-    -moz-bottom: -10; -webkit-bottom: -10;
+    bottom: -10;-moz-bottom: -10; -webkit-bottom: -10;
     left: 0;
     width: 97.9%;
     height: 40px;
